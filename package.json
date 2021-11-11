@@ -1,0 +1,20 @@
+{
+  "name": "@darrell.bleakley/twr-recipes",
+  "version": "0.0.1",
+  "description": "Thunder Web Runtime Recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testing TWR\"",
+    "build": "echo \"Building TWR\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbleakley/twr-recipes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbleakley/twr-recipes/issues"
+  },
+  "homepage": "https://github.com/dbleakley/twr-recipes#readme"
+}
