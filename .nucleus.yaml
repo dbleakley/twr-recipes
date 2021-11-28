@@ -9,3 +9,7 @@ steps:
     params:
       registry-url: https://registry.npmjs.org
       npmPublicToken: "{{ secrets.NPM_TOKEN }}"
+  npm-configure-for-update:
+    params:
+      registry-url: https://registry.yarnpkg.com
+      npmPublicToken: "{{ secrets.NPM_TOKEN }}"
