@@ -7,9 +7,9 @@
   resolved "https://registry.yarnpkg.com/@darrell.bleakley/twc/-/twc-0.0.1.tgz#676732b3e009f0be2df3439d0ca8c2454683a977"
   integrity sha512-wI4CJ7TVK56fhk7UD7GvDc3p+ikSZmy/ys+w2WWQaGtymgzJdjzpCeWD+/4IKO+hrocpF5blxiI+ohJGVQ0zcQ==
 
-"@darrell.bleakley/twr@0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@darrell.bleakley/twr/-/twr-0.0.1.tgz#93bb0cb6fd20fd92deab0228eed012be3059cba0"
-  integrity sha512-6WgAuhrEbfkz275c3f6a0FFkx3yUhaXqTWroaZmtYZcIFPvtsRDGFbMNKwZRsNmSDHrCHQKn8ImX9i0qLZIECA==
+"@darrell.bleakley/twr@0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@darrell.bleakley/twr/-/twr-0.2.2.tgz#9fe817068f13900886651b736840a40b24bfeaa6"
+  integrity sha512-TbkYsMqjqrTttll6loz8DNn3TDG1z9f/uwtibujJfNLHvuJiDsGq2z5mFe92ijJVTTCJVVKCPAb88dzpTyD79A==
   dependencies:
     "@darrell.bleakley/twc" "^0.0.1"
