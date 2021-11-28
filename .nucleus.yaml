@@ -1,0 +1,11 @@
+display-name: Thunder Web Runtime - Recipes
+team-name: Thunder Web Runtime - JS
+steps:
+  npm-configure:
+    params:
+      registry-url: https://registry.yarnpkg.com
+      npmPublicToken: "{{ secrets.NPM_TOKEN }}"
+  npm-configure-for-publish:
+    params:
+      registry-url: https://registry.npmjs.org
+      npmPublicToken: "{{ secrets.NPM_TOKEN }}"
