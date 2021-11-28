@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dbleakley/twr-recipes/issues"
   },
-  "homepage": "https://github.com/dbleakley/twr-recipes#readme"
+  "homepage": "https://github.com/dbleakley/twr-recipes#readme",
+  "dependencies": {
+    "@darrell.bleakley/twr": "0.0.1"
+  }
 }
